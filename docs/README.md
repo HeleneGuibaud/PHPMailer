@@ -5,3 +5,5 @@ Pre-built PHPMailer API documentation is not provided with the PHP classes, but 
 Further help and information is available in [the PHPMailer README](https://github.com/PHPMailer/PHPMailer/blob/master/README.md), [the examples folder](https://github.com/PHPMailer/PHPMailer/tree/master/examples), and in [the GitHub wiki](https://github.com/PHPMailer/PHPMailer/wiki).
 
 Fixes and additions to documentation are welcome - please submit pull requests or improve wiki pages.
+
+Ma version de PHP
